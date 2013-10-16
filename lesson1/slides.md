@@ -268,6 +268,9 @@ Project Management Tools
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 ## General Assembly Press Release
 
+* [Useful Sublime Text 2 Hotkeys for Mac](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+* [Useful Sublime Text 2 Hotkeys for Win](http://docs.sublimetext.info/en/sublime-text-2/reference/keyboard_shortcuts_win.html)
+
 
 
 ## HTML Basics
