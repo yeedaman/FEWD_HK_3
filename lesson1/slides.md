@@ -384,7 +384,9 @@ The Doctype tells you if the page is HTML5 ready.
 ## Homework
 <aside class="notes">Both ~ 5 Min</aside>
 
-* Create a resume website (Will show the 2 images of the Wendy website)
+* Create a resume website like Wendy G. Bite
+  * [About me](https://raw.github.com/ga-students/FEWD_HK_3/gh-pages/lesson2/starter_code/WendyBite_AboutMe.png)
+  * [Résumé](https://raw.github.com/ga-students/FEWD_HK_3/gh-pages/lesson2/starter_code/WendyBite_Resume.png)
 * [Don't Fear The Internet](http://www.dontfeartheinternet.com/the-basics/not-tubes)
 
 
