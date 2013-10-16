@@ -1,4 +1,4 @@
-![General Assembly](assets/images/ga.png)
+![General Assembly](../assets/images/ga.png)
 # FEWD LESSON 1
 
 ## FEWD - HTML BASICS
