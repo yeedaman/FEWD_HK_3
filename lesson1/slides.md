@@ -13,8 +13,10 @@ Kit Yuen & Mart van de Ven
 * Round of Introductions
 * Course Information
 * What is Web Development?
+* How a web project works?
 * Codepen.io
 * Text Editor
+* Version Control
 * Lab: Cookie Recipe
 * HTML Basics
 * Homework
@@ -93,7 +95,6 @@ Mart van de Ven
 ## What is Web Development?
 <aside class="notes">Kit ~ 20 Min</aside>
 
-![fullscreen](http://ankitsahay.com/wp-content/uploads/2013/06/The.Matrix.glmatrix.31.png)
 ![Web Developer](../assets/images/web-developer.jpg)
 
 
@@ -145,10 +146,10 @@ For a static website, web development can simply refer to:
 
 
 
-## What is Web Development?
+## How a web project works?
 <aside class="notes"></aside>
 
-But for large web applications, it could involve hundreds of people working on different aspects including:
+For large web applications, it could involve hundreds of people working on different aspects including:
 
 * Web design: Graphical designer
 * GUI design (Graphical User Interface): UX designer
@@ -162,7 +163,7 @@ But for large web applications, it could involve hundreds of people working on d
 
 
 
-## What is Web Development?
+## How a web project works?
 <aside class="notes">Mart ~ 5 Min</aside>
 
 Developer Tools
@@ -205,9 +206,61 @@ Project Management Tools
 
 
 
+## Version Control
+<aside class="notes">Mart ~ 60 Min</aside>
+
+### Installation
+
+* Linux: [Git](https://help.github.com/articles/set-up-git)
+* Mac: [Homebrew](http://brew.sh/), [XCode](https://developer.apple.com/xcode/)
+* Windows: [GitHub on Windows](http://windows.github.com/)
+* Verify the git installation in Terminal/PowerShell
+  * `git --version`
+
+
+
+## Version Control
+<aside class="notes">
+  Help the students to fork the repository and setup the gh-pages branch
+</aside>
+
+* Sign-up with [GitHub](https://github.com/signup/free)
+* `fork` the [FEWD repository](https://github.com/ga-students/FEWD_HK_3)
+* Open Terminal/PowerShell and checkout the source code by
+  * `git clone https://github.com/ga-students/FEWD_HK_3.git`
+* [Pave the way](https://help.github.com/articles/making-changes) for your final project
+* Serve your website with [GitHub Pages](https://help.github.com/articles/creating-project-pages-manually)
+* [Marvel](https://github.com/) at your mastery over Git
+* ... the most complicated tool built by mankind
+
+
+
+## Git Concepts
+<aside class="notes">
+  Mart ~ 10 Min
+  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
+</aside>
+
+### The Hash
+### The Branch
+### The Diff
+### The Merge
+
+
+
+## Course Flow
+<aside class="notes">Mart ~ 3 Min</aside>
+
+* Visit [http://ga-students.github.io/FEWD_HK_3/](http://ga-students.github.io/FEWD_HK_3/) for the slides
+* Or check the slides markdown file in your local FEWD repository.  
+* Ask questions via E-mail or [Github Issues](https://github.com/ga-students/FEWD_HK_3/issues).
+* Setup Google+ to receive e-mail notifications if you haven't already
+
+
+
 ## HTML Tags
 <aside class="notes">
-  Mart ~ 30-60 Min
+  Mart ~ 30 Min
   * Introduce the basic structure of a HTML
   * Demonstrate some cool features provided by Sublime Text 2
 </aside>
@@ -218,7 +271,7 @@ Project Management Tools
 
 
 ## HTML Basics
-<aside class="notes">Kit ~ 30 Min</aside>
+<aside class="notes">Kit ~ 20 Min</aside>
 
 
 
@@ -243,13 +296,6 @@ The Doctype tells you if the page is HTML5 ready.
 <aside class="notes"></aside>
 
 ![HTML Syntax](../assets/images/unit_1/tags.png)
-
-
-
-##HTML Syntax
-<aside class="notes"></aside>
-
-![HTML Syntax](../assets/images/unit_1/tags_attributes.png)
 
 
 
@@ -296,8 +342,8 @@ The Doctype tells you if the page is HTML5 ready.
 
 ### Unordered list item
 
-```<li>```First item```</li>```
-```<li>```Next item```</li>```
+```<li>```First item```</li>```<br>
+```<li>```Next item```</li>```<br>
 
 
 
@@ -306,13 +352,18 @@ The Doctype tells you if the page is HTML5 ready.
 
 ### Unorder list example
 
-```
-<ul>
-  <li>1st item</li>
-  <li>2nd item</li>
-  <li>3rd item</li>
-</ul>
-```
+`<ul>`<br>
+&nbsp;&nbsp;`<li>1st item</li>`<br>
+&nbsp;&nbsp;`<li>2nd item</li>`<br>
+&nbsp;&nbsp;`<li>3rd item</li>`<br>
+`</ul>`
+
+
+
+##HTML Syntax
+<aside class="notes"></aside>
+
+![HTML Syntax](../assets/images/unit_1/tags_attributes.png)
 
 
 
