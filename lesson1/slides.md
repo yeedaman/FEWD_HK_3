@@ -49,6 +49,16 @@ Mart van de Ven
 
 
 
+## Course Information
+<aside class="notes">Mart ~ 3 Min</aside>
+
+* Class Structure
+* Final Project
+  * [Example](http://studio.generalassemb.ly/HK/FEWD1/Sean/1_Projects/0_final_v3/)
+* Grading Policy
+
+
+
 ## ... and who do we have here?
 <aside class="notes">Class ~ 4 Min</aside>
 
@@ -56,15 +66,6 @@ Mart van de Ven
 * What are you hoping to achieve
 * Already have any plans for your project?
 * Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/z1h8zknc05ro769/)!
-
-
-
-## Course Information
-<aside class="notes">Mart ~ 3 Min</aside>
-
-* Class Structure
-* Final Project
-* Grading Policy
 
 
 
@@ -219,6 +220,19 @@ Project Management Tools
 
 
 
+## Git Concepts
+<aside class="notes">
+  Mart ~ 10 Min
+  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
+</aside>
+
+### The Hash
+### The Branch
+### The Diff
+### The Merge
+
+
+
 ## Version Control
 <aside class="notes">
   Help the students to fork the repository and setup the gh-pages branch
@@ -232,19 +246,6 @@ Project Management Tools
 * Serve your website with [GitHub Pages](https://help.github.com/articles/creating-project-pages-manually)
 * [Marvel](https://github.com/) at your mastery over Git
 * ... the most complicated tool built by mankind
-
-
-
-## Git Concepts
-<aside class="notes">
-  Mart ~ 10 Min
-  Provide a high-level overview of the work-flow in Git by talking about how the following items make distirbuted collaboration possible
-</aside>
-
-### The Hash
-### The Branch
-### The Diff
-### The Merge
 
 
 
