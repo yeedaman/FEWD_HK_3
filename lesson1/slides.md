@@ -55,7 +55,7 @@ Mart van de Ven
 * Tell us a bit about yourselves
 * What are you hoping to achieve
 * Already have any plans for your project?
-* Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/k4k4r7/)!
+* Fill out the [GA Student Profile](https://generalassembly.wufoo.com/forms/z1h8zknc05ro769/)!
 
 
 
