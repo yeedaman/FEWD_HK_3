@@ -353,9 +353,9 @@ The Doctype tells you if the page is HTML5 ready.
 ### Unorder list example
 
 `<ul>`<br>
-&nbsp;&nbsp;`<li>1st item</li>`<br>
-&nbsp;&nbsp;`<li>2nd item</li>`<br>
-&nbsp;&nbsp;`<li>3rd item</li>`<br>
+&nbsp;&nbsp;`<li>`First item`</li>`<br>
+&nbsp;&nbsp;`<li>`Second item`</li>`<br>
+&nbsp;&nbsp;`<li>`Third item`</li>`<br>
 `</ul>`
 
 
