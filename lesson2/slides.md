@@ -10,6 +10,7 @@ Kit Yuen & Mart van de Ven
 
 ## Agenda
 
+* Manage your Git Repo
 * HTML Basics Review
 * Images
 * Intro To CSS
@@ -18,6 +19,40 @@ Kit Yuen & Mart van de Ven
   * Fonts
 * Linking To Other Pages
 * Lab Time
+
+
+
+## Manage your Git Repo
+<aside class="notes">Kit ~ 15 Min</aside>
+
+
+
+
+<aside class="notes">Kit ~ 15 Min</aside>
+
+Merge latest changes from [ga-students/FEWD_HK_3](https://github.com/ga-students/FEWD_HK_3) to your forked repo.
+
+1. Goes to your local repository folder which u check out for your forked
+```
+    Win: cd c:\Users\user\Desktop\FEWD
+    OSX: cd /Users/user/Desktop/FEWD_HK_3
+```
+1. Add ga-students/FEWD_HK_3 as your upstream repo
+```
+git remote add upstream https://github.com/ga-students/FEWD_HK_3.git
+```
+1. Fetch new updates from the upstream repo to your machine
+```
+git fetch upstream
+```
+1. Merge the upstream commits to your local repo
+```
+git merge upstream/gh-pages -m "YOUR COMMIT MSG"
+```
+1. Push the new commits to your forked repo
+```
+git push origin gh-pages
+```
 
 
 
