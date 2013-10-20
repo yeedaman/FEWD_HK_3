@@ -49,14 +49,14 @@ git push origin gh-pages
 
 
 ## What Tag Is It?
-<aside class="notes">Kit ~ 15 Min</aside>
+<aside class="notes">Kit ~ Cover topics missed in first class ~ 30 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
 
 
 ## HTML Basics Review
-<aside class="notes">Kit ~ 20 Min</aside>
+<aside class="notes">Mart ~ 20 Min</aside>
 
 ### Images
 
@@ -173,7 +173,7 @@ ABSOLUTE PATH always starts from ```/```
 
 
 ## Let's do some exercises!
-<aside class="notes">60 Min</aside>
+<aside class="notes">Mart : Concept, Kit : Code ~ 60 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 ##About Me
@@ -405,7 +405,7 @@ As with RGBa, HSLa is exactly like HSL for the first 3 values, but takes a 4th a
 
 
 ##Lab Time
-<aside class="notes"></aside>
+<aside class="notes">Both ~ 30 min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/Exercise_icon_md.png)
 
