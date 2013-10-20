@@ -23,33 +23,25 @@ Kit Yuen & Mart van de Ven
 
 
 ## Manage your Git Repo
-<aside class="notes">Kit ~ 15 Min</aside>
+<aside class="notes">Mart ~ 15 Min</aside>
 
+`Merge` latest changes from [ga-students/FEWD_HK_3](https://github.com/ga-students/FEWD_HK_3) to your personal, forked repository.
 
-
-
-<aside class="notes">Kit ~ 15 Min</aside>
-
-Merge latest changes from [ga-students/FEWD_HK_3](https://github.com/ga-students/FEWD_HK_3) to your forked repo.
-
-1. Goes to your local repository folder which u check out for your forked
+1. Open the `Terminal`
+1. Navigate with the `cd` command to the directory where you cloned your `local` repository to, i.e. 
 ```
     Win: cd c:\Users\user\Desktop\FEWD
-    OSX: cd /Users/user/Desktop/FEWD_HK_3
+    OSX: cd /Users/`user`/Desktop/FEWD_HK_3
 ```
-1. Add ga-students/FEWD_HK_3 as your upstream repo
+1. Add ga-students/FEWD_HK_3 as your `upstream` repo
 ```
 git remote add upstream https://github.com/ga-students/FEWD_HK_3.git
 ```
-1. Fetch new updates from the upstream repo to your machine
+1. `Merge` new updates from the upstream repo to your local copy of the same repo.
 ```
-git fetch upstream
+git merge upstream
 ```
-1. Merge the upstream commits to your local repo
-```
-git merge upstream/gh-pages -m "YOUR COMMIT MSG"
-```
-1. Push the new commits to your forked repo
+1. `Push` the new commits to your forked repo
 ```
 git push origin gh-pages
 ```
