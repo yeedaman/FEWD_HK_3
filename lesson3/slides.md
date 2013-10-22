@@ -120,12 +120,7 @@ That should be all! Check GH to check whether it worked
 
 
 ## Box Model
-<aside class="notes">
-  Mart ~ 30 min
-  I think it is better to talk about the box-model first so students could know what's margin and padding before moving to the HTML template.
-  @FEWD_HK_3/lesson3/labs/box_model
-  We may consider introducing a little bit of SEO here?
-</aside>
+<aside class="notes">Mart ~ 30 min</aside>
 
 ### Every element in web design is a box
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
@@ -143,20 +138,16 @@ That should be all! Check GH to check whether it worked
 
 <aside class="notes"></aside>
 
-**Width** = width + padding-left + padding-right + border-left + border-right
+**Width** = content width + padding-left + padding-right + border-left + border-right
 
-**Height** = height + padding-top + padding-bottom + border-top + border-bottom
+**Height** = content height + padding-top + padding-bottom + border-top + border-bottom
+
+* Box Model Hack
 
 
 
 ## HTML Template
-<aside class="notes">
-  Kit ~ 20 min
-  @FEWD_HK_3/lesson3/labs/template
-  1. We may consider introducing a little bit of SEO here?
-  2. The style.css contains box-model hack shall we skip it? just thinking it is not that useful.
-  3. I think we can keep the clearfix and the rest in style.css.
-</aside>
+<aside class="notes"> Kit ~ 20 min : @FEWD_HK_3/lesson3/labs/template</aside>
 
 ```
 <!doctype html>
@@ -196,13 +187,6 @@ h1.tagline { color: blue; } /* Only apply to the <h1> tag which has class = tagl
 ## Classes & Ids
 <aside class="notes">Kit ~ 10 mins</aside>
 
-### When should i use them? id or class?
-
-
-
-## Classes & Ids
-<aside class="notes">Kit ~ 10 mins</aside>
-
 How to __select__ classes in CSS?
 
 ```
@@ -210,6 +194,12 @@ How to __select__ classes in CSS?
 
 #idName { color: blue; }
 ```
+
+
+## Classes & Ids
+<aside class="notes">Mart ~ 5 mins</aside>
+
+### When should i use them? id or class?
 
 
 
