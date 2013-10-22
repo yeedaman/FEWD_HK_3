@@ -10,11 +10,10 @@ Kit Yuen & Mart van de Ven
 
 ## Agenda
 
-* Review
 * Box Model
 * HTML Template
+* Classes & Ids
 * Nested Selectors
-* CSS Specificity
 * Homework
 
 
@@ -78,18 +77,46 @@ Kit Yuen & Mart van de Ven
 
 
 
+## Classes & Ids
+<aside class="notes">Kit ~ 10 mins</aside>
+
+### With classes and ids we can target specific elements on a page, so we can manipulate it uniquely.
+```
+h1 { color: red; } /* Apply to all <h1> tags */
+
+h1.tagline { color: blue; } /* Only apply to the <h1> tag which has class = tagline */
+```
+
+* **ID** must be unique in within the same .html.
+* The same **class** could be applied to more than 1 tag.
+
+
+
+## Classes & Ids
+<aside class="notes">Kit ~ 10 mins</aside>
+
+### When should i use them? id or class?
+
+
+
+## Classes & Ids
+<aside class="notes">Kit ~ 10 mins</aside>
+
+How to __select__ classes in CSS?
+
+```
+.className { color: red; }
+
+#idName { color: blue; }
+```
+
+
+
 ## Nested Selectors
 <aside class="notes">Kit ~ 30 min</aside>
 
 ### Every element in web design is a box
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
-
-
-
-## CSS Specificity
-<aside class="notes">Kit ~ 30 min</aside>
-
-[Specifics on CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
 
 
 
