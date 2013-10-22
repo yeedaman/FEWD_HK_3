@@ -22,6 +22,14 @@ Kit Yuen & Mart van de Ven
 
 
 
+## Getting help in GitHub
+
+[Example](https://github.com/cindyyen/FEWD_HK_3/commit/6d12cdf9a541f250deadf8684e4b1d9dacb15b25)
+
+* Use @references to call `tijptjik` or `ykyuen` to the scene!
+
+
+
 ## GIT made EASY with SUBLIME
 
 
