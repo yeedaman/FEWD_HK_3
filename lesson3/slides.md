@@ -99,4 +99,5 @@ Kit Yuen & Mart van de Ven
 ### How to get started with a project?
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
-### Fashion Blog
+
+**[Preview](https://github.com/tijptjik/FEWD_2.0.0/blob/master/Week_02_Layout/03_advanced_css/starter_code/Fashion_Blog.png)** : Fashion Blog
