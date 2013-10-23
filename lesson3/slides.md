@@ -123,7 +123,7 @@ That should be all! Check GH to check whether it worked
 ## Absolute and Relative links
 <aside class="notes">Kit ~ 5 Minutes</aside>
 
-### [Lesson 2](ga-students.github.io/FEWD_HK_3/slides/?lesson=2)
+### [Lesson 2](http://ga-students.github.io/FEWD_HK_3/slides/?lesson=2)
 
 
 
@@ -226,4 +226,4 @@ How to __select__ classes in CSS?
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
-**[Preview](https://github.com/tijptjik/FEWD_2.0.0/blob/master/Week_02_Layout/03_advanced_css/starter_code/Fashion_Blog.png)** : Fashion Blog
+**[Preview](http://ga-students.github.io/FEWD_HK_3/lesson3/starter_code/fashion_blog_part1/Fashion_Blog.png)** : Fashion Blog
