@@ -41,7 +41,7 @@ Kit Yuen & Mart van de Ven
 
 
 ## CSS Specificity
-<aside class="notes">Mart ~ 30 min</aside>
+<aside class="notes">Mart ~ 15 min</aside>
 
 [Specifics on CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
 
@@ -49,7 +49,7 @@ Kit Yuen & Mart van de Ven
 
 
 ## HTML5 Structural Elements
-<aside class="notes">10 mins</aside>
+<aside class="notes">Mart ~ 10 mins</aside>
 
 * ```<header>```
 * ```<aside>```
@@ -60,9 +60,8 @@ Kit Yuen & Mart van de Ven
 ## Code Along
 <aside class="notes">
   Both ~ 60 mins
-  This would be a long class lab demonstrating the following ideas:
-    - HTML 5 elements including header, aside, footer
-    - CSS: float
+    * HTML: header, aside, footer
+    * CSS: float 
 </aside>
 
 ### Floating Sections
@@ -104,3 +103,8 @@ Apply the clearfix class to the parent element such that it knows the height of 
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 ### Fashion Blog Part 2
+
+### Reading
+
+* [All about Floats](http://css-tricks.com/all-about-floats/)
+* [Floats: Things you should know](http://coding.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/)
