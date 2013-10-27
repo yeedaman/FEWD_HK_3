@@ -10,6 +10,7 @@ Kit Yuen & Mart van de Ven
 
 ## Agenda
 
+* Box Model Hack
 * Advanced CSS Selectors
 * CSS Specificity
 * HTML5 Structural Elements
@@ -18,15 +19,29 @@ Kit Yuen & Mart van de Ven
 
 
 
+## Box Model Hack
+<aside class="notes">Kit ~ 10 min</aside>
+
+```
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+```
+
+
+
 ## Advanced CSS Selector
-<aside class="notes">Kit ~ 30 min</aside>
+<aside class="notes">Kit ~ 20 min</aside>
 
 [The 30 CSS Selectors you Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
 
 
 
 ## CSS Specificity
-<aside class="notes">Kit ~ 30 min</aside>
+<aside class="notes">Mart ~ 30 min</aside>
 
 [Specifics on CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
 
@@ -39,14 +54,6 @@ Kit Yuen & Mart van de Ven
 * ```<header>```
 * ```<aside>```
 * ```<footer>```
-
-
-
-## Floats
-<aside class="notes">10 mins</aside>
-
-Float is a CSS positioning property, used to layout a web page. 
-![](http://css-tricks.com/wp-content/csstricks-uploads/web-layout.png)
 
 
 
@@ -63,10 +70,30 @@ Float is a CSS positioning property, used to layout a web page.
 
 
 
-## CSS Positioning
-<aside class="notes">
-  Do you think we should introduce CSS position?
-</aside>
+## Floats
+<aside class="notes"></aside>
+
+Float is a CSS positioning property, used to layout a web page. 
+![](http://css-tricks.com/wp-content/csstricks-uploads/web-layout.png)
+
+
+
+## The clearfix hack
+<aside class="notes"></aside>
+
+Apply the clearfix class to the parent element such that it knows the height of the floating children.
+
+```
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+```
 
 
 
