@@ -20,8 +20,15 @@ Kit Yuen & Mart van de Ven
 
 
 
-# Introduction To Programming
+# But First! 
 <aside class="notes">Mart</aside>
+
+## The make-up class!
+
+
+
+# Introduction To Programming
+<aside class="notes">Mart ~ 10 Min</aside>
 
 
 
@@ -57,7 +64,7 @@ The only things a computer knows are the things we tell it.
 
 
 ## Pseudo Code
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes">Kit ~ 10 Min</aside>
 
 * A script of a computer program
 * It's just like a wireframe of a program
@@ -129,7 +136,7 @@ repeat forever,
 
 
 # Rock Paper Scissors
-<aside class="notes">Both (30 Min)</aside>
+<aside class="notes">Class ~ 30 Min</aside>
 
 ### Can you write a robot which can play Rock Paper Scissors with u?
 
@@ -140,14 +147,14 @@ Write a pseudo code block!
 
 
 ## What JS can do?
-<aside class="notes">Kit (15 Min)</aside>
+<aside class="notes">Mart ~ 10 Min</aside>
 
 ### [Introduction](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript)
 
 
 
 [Color Switcher](http://codepen.io/nevan/pen/kBItz)
-<aside class="notes">Both (60 Min)</aside>
+<aside class="notes">Both ~ 45 Min</aside>
 
 ### Let's read some JS code
 
@@ -158,7 +165,7 @@ Can you add more color options?
 
 
 [Traffic Light](http://codepen.io/nevan/pen/shtLA)
-<aside class="notes">Both (30 Min)</aside>
+<aside class="notes">Both ~ 30 Min</aside>
 
 ### Be an engineer and the traffic light
 
