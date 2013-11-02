@@ -19,7 +19,7 @@ Kit Yuen & Mart van de Ven
 
 
 ## Syntax
-<aside class="notes"></aside>
+<aside class="notes">Mart ~ 5 Min</aside>
 
 __Syntax:__ Spelling and grammar rules of a programming language.
 
@@ -40,8 +40,15 @@ alert("Hello World");
 
 
 
+## Separation of Concerns 
+<aside class="notes">Mart ~ 5 Min</aside>
+![GeneralAssemb.ly](../assets/images/icons/code_along.png)
+*[Codepen](http://codepen.io/nevan/pen/kBItz)
+
+
+
 ## What are variables?
-<aside class="notes"></aside>
+<aside class="notes">Mart ~ 10 Min</aside>
 
 What are variables?
 
@@ -50,6 +57,7 @@ What are variables?
 * The entity we use to store the value is called a variable
 * The action of getting the value from a variable is called accessing the variable
 * We will use all the above techniques to store values into variables, and generate new values using existing variables
+
 
 
 
@@ -113,14 +121,15 @@ name = Amir;
 
 
 ## Score Keeper 
-<aside class="notes"></aside>
+<aside class="notes">Kit ~ 15 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
+*[Codepen](http://codepen.io/nevan/pen/hAjtq)
 
 
 
 ## Strings
-<aside class="notes"></aside>
+<aside class="notes">Kit ~ 30 Min</aside>
 
 * Stores textual information
 * Literal string is surrounded by quotes
@@ -226,7 +235,7 @@ Can perform arithmetic on number data types
 
 
 ## Arithmetic In JavaScript
-<aside class="notes"></aside>
+<aside class="notes">Mart ~ 25 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/unit_1/arithmetic.jpg)
 
@@ -265,7 +274,6 @@ Are two things equal?
 10 === 5      // false
 "hi" === "hi" // true
 ```
-
 
 
 ## Logical Operators
@@ -345,16 +353,16 @@ if (day == "Monday" || day == "Wednesday") {
 ```
 
 
+## Compare that
+<aside class="notes">Kit ~ 25 Min</aside>
 
-## The Truth Table
-<aside class="notes"></aside>
-
-![GeneralAssemb.ly](../assets/images/unit_1/or_table.png)
+![GeneralAssemb.ly](../assets/images/icons/code_along.png)
+* [Codepen](http://codepen.io/nevan/pen/BkdqI)
 
 
 
 ## Temp Converter
-<aside class="notes"></aside>
+<aside class="notes">Class ~ 45 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
 
