@@ -13,9 +13,9 @@ Kit Yuen & Mart van de Ven
 
 * Introduction To Programming
 * Pseudo Code
+* Rock Paper Scissors
 * What JS can do?
 * Color Switcher  
-* Rock Paper Scissors
 * Traffic Light
 
 
@@ -128,11 +128,21 @@ repeat forever,
 
 
 
+# Rock Paper Scissors
+<aside class="notes">Both (30 Min)</aside>
+
+### Can you write a robot which can play Rock Paper Scissors with u?
+
+![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
+
+Write a pseudo code block!
+
+
+
 ## What JS can do?
 <aside class="notes">Kit (15 Min)</aside>
 
 ### [Introduction](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript)
-
 
 
 
@@ -144,17 +154,6 @@ repeat forever,
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
 
 Can you add more color options?
-
-
-
-Rock Paper Scissors
-<aside class="notes">Both (30 Min)</aside>
-
-### Can you write a robot which can play Rock Paper Scissors with u?
-
-![GeneralAssemb.ly](../assets/images/icons/exercise_icon_md.png)
-
-Write a pseudo code block!
 
 
 
