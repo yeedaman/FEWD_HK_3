@@ -13,7 +13,7 @@ Kit Yuen & Mart van de Ven
 
 * Pseudo Code
 * What JS can do?
-* Color Switcher
+* Color Switcher  
 * Rock Paper Scissors
 * Traffic Light
 
@@ -42,7 +42,7 @@ Here is the business logic
 
 
 ## Pseudo Code
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes"></aside>
 
 ```
 // variable
@@ -60,15 +60,15 @@ else if working_hours > 8
 
 
 ## Pseudo Code
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes"></aside>
 
 ### What does this program do?
 
 ```
-target_temperature = 72
+target_temperature = 26
 repeat forever,
   current_temperature = get_sensor_reading
-  if target_temperature > (current_temperature+5),
+  if (target_temperature - 1) > current_temperature,
     turn_on_heater
   if target_temperature <= current_temperature,
     turn_off_heater
@@ -77,7 +77,7 @@ repeat forever,
 
 
 ## Pseudo Code
-<aside class="notes">Kit (10 Min)</aside>
+<aside class="notes"></aside>
 
 ### Flow chart helps too!
 
