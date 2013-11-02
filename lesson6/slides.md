@@ -11,11 +11,48 @@ Kit Yuen & Mart van de Ven
 ## Agenda
 <aside class="notes"></aside>
 
+* Introduction To Programming
 * Pseudo Code
 * What JS can do?
 * Color Switcher  
 * Rock Paper Scissors
 * Traffic Light
+
+
+
+# Introduction To Programming
+<aside class="notes">Mart</aside>
+
+
+
+<aside class="notes">Mart</aside>
+## Program
+A __program__ is a set of instructions that you write to tell a computer what to do
+
+---
+
+## Programming
+
+__Programming__ is the task of writing those instructions in a language that the computer can understand.
+
+
+
+<aside class="notes"></aside>
+## Becoming A Programmer
+
+It isn't about the programming language. It is about changing how you think.
+
+We have to know how the computer thinks to change how we think.
+
+---
+
+##How Computers ‘Think’
+
+The short answer is that they don’t think.
+
+The slightly longer answer is that while computers don’t think, they act as if they do, by sequentially executing simple instructions.
+
+The only things a computer knows are the things we tell it.
 
 
 
