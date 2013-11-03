@@ -42,8 +42,10 @@ alert("Hello World");
 
 ## Separation of Concerns 
 <aside class="notes">Mart ~ 5 Min</aside>
+
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
-*[Codepen](http://codepen.io/nevan/pen/kBItz)
+
+* [Codepen](http://codepen.io/nevan/pen/kBItz)
 
 
 
@@ -124,7 +126,8 @@ name = Amir;
 <aside class="notes">Kit ~ 15 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
-*[Codepen](http://codepen.io/nevan/pen/hAjtq)
+
+* [Codepen](http://codepen.io/nevan/pen/hAjtq)
 
 
 
@@ -276,6 +279,7 @@ Are two things equal?
 ```
 
 
+
 ## Logical Operators
 <aside class="notes"></aside>
 
@@ -353,10 +357,12 @@ if (day == "Monday" || day == "Wednesday") {
 ```
 
 
+
 ## Compare that
 <aside class="notes">Kit ~ 25 Min</aside>
 
 ![GeneralAssemb.ly](../assets/images/icons/code_along.png)
+
 * [Codepen](http://codepen.io/nevan/pen/BkdqI)
 
 
