@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<title>Temperature Converter</title>
+		<!-- If you like, link to either reset.css or normalize.css here. -->
+		<link rel="stylesheet" href="css/main.css">
+	</head>
+	<body>
+
+		<h1>Temperature convertor</h1>
+
+<p>Temperature in Celcius:</p>
+<div id="inputs">
+   <input id="c" value=2>
+</div>
+<button id="submit">Calculate</button>
+<div id="output">
+  <p>This equals to <span id="outputval">??</span> in Farenheit!</p>
+  
+  
+            
+
+		<!-- Build your page here, leaving the script tag after all your HTML, but before the </body> tag -->
+
+		<script src="js/main.js">
+
+document.getElementById('submit').onclick = convert
+
+function convert() {
+ var c = document.getElementById('c').value;
+ var f = c*1.8+32;
+ document.getElementById('outputval').innerHTML=f;
+  
+}
+
+
+
+
+
+
+
+		</script>
+
+
+
+
+
+
+
+	</body>
+</html>
