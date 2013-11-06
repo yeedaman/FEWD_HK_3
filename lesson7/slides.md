@@ -261,7 +261,7 @@ you are an adult
 
 ```
 if (age > 18) {
-  puts "You are an adult"
+  console.log("You are an adult")
 }
 ```
 
@@ -352,7 +352,7 @@ if (name == "GA" && password == "YellowPencil") {
 
 ```
 if (day == "Monday" || day == "Wednesday") {
-  // FEWD3 by night
+  // FEWD3 DAY
 }
 ```
 
