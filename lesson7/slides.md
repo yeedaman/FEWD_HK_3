@@ -352,7 +352,7 @@ if (name == "GA" && password == "YellowPencil") {
 
 ```
 if (day == "Monday" || day == "Wednesday") {
-  // FEWD3 day
+  // FEWD3 DAY
 }
 ```
 
